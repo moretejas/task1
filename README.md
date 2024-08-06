@@ -1,6 +1,6 @@
-**Name - Tejas More Company - CODTECH IT SOLUCTIONS id - CT8ML1259 Domain - Machine Learning
+**Name - Tejas More Company - CODTECH IT SOLUCTIONS id - CT8ML1259 Domain - Machine Learning**
 
-Duration - JUNE TO AUGUST 2024 Mentor - Neela Santhosh Kumar**
+**Duration - JUNE TO AUGUST 2024 Mentor - Neela Santhosh Kumar**
 
 **1. Overview Of the Project**
 **Objective**: Provide precise estimates of property values to aid buyers, sellers, and real estate agents.
